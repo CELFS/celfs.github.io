@@ -45,7 +45,8 @@ docsify serve filename
 * 忽略列表
 * 删除远程 .idea 文件
 * 修改 readme 后, 内容未同步更新到 web
-
+* 按项目分类笔记
+* 侧边栏优化
 
 
 
