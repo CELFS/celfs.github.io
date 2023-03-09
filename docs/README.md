@@ -35,7 +35,7 @@ docsify serve filename
 ### 维护
 
 ![image-20230309132330683](D:\TyporaTxt\PicCopy\image-20230309132330683.png)
-
+* 图片暂时无法处理, 可能要上传到 git private 库
 
 
 
