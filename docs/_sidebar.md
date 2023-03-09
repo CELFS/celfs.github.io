@@ -6,5 +6,3 @@
   * [file1](file1/file2.md)
   * [file1](file1/file3.md)
   * [file2](file2/file2.md)
-* test3
-  * [test4]()

@@ -47,6 +47,7 @@ docsify serve filename
 * 修改 readme 后, 内容未同步更新到 web(发现是服务器的延迟)
 * 按项目分类笔记
 * 侧边栏优化
+* 仓库按项目改名
 
 
 
