@@ -35,9 +35,16 @@ docsify serve filename
 ### 维护
 
 ![image-20230309132330683](D:\TyporaTxt\PicCopy\image-20230309132330683.png)
+
+
+
+
+
+### 问题集
 * 图片暂时无法处理, 可能要上传到 git private 库
 * 忽略列表
 * 删除远程 .idea 文件
+* 文本内容未及时更新到 blog
 
 
 
