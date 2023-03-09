@@ -44,7 +44,7 @@ docsify serve filename
 * 图片暂时无法处理, 可能要上传到 git private 库
 * 忽略列表
 * 删除远程 .idea 文件
-* 修改 readme 后, 内容未同步更新到 web
+* 修改 readme 后, 内容未同步更新到 web(发现是服务器的延迟)
 * 按项目分类笔记
 * 侧边栏优化
 
