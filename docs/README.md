@@ -44,7 +44,7 @@ docsify serve filename
 * 图片暂时无法处理, 可能要上传到 git private 库
 * 忽略列表
 * 删除远程 .idea 文件
-* 文本内容未及时更新到 blog
+* 修改 readme 后, 内容未同步更新到 web
 
 
 
